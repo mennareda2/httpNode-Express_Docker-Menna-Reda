@@ -53,7 +53,7 @@ Interested in learning more about Docker? Visit https://www.pluralsight.com/cour
 6. Run `npm start` to start the server.
 
 7. Navigate to http://localhost:3000 in your browser.
-Task by Menna Reda
+8. Task by Menna Reda
 
 
 
